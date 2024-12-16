@@ -10,9 +10,9 @@ email: abigalekim0417@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Abigale Kim's personal website.
 footer_text: >
-  <a href="https://cmuwebr.ing/sites/abigalek/prev">&lt;&lt;&lt;</a>
-  Part of the <a href="https://cmuwebr.ing">CMU Webring</a>
-  <a href="https://cmuwebr.ing/sites/abigalek/next">&gt;&gt;&gt;</a>
+  <a href="https://cmuwebr.ing/sites/abigalek/prev">prev</a>
+  <a href="https://cmuwebr.ing">cmu webring</a>
+  <a href="https://cmuwebr.ing/sites/abigalek/next">next</a>
 keywords: 
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
